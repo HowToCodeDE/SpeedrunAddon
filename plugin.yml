@@ -1,7 +1,6 @@
 main: de.theunrealflo.speedrunaddon.SpeedrunMain
 name: SpeedrunAddon
 version: 1.0
-api-version: 1.16
 depend: [ Stopwatch ]
 author: TheUnreal_Flo_
 description: An addon for Stopwatch Plugin to make an automation for speedruns.
